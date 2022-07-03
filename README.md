@@ -3,7 +3,7 @@ Nubank Clone App with React Native and Expo
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">guihoffmann7@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
